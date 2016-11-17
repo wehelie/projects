@@ -1,0 +1,74 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:100,400';
+* {
+/* With these codes padding and border does not increase it's width and gives intuitive style.*/
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+body,
+html {
+    min-height: 100%;
+}
+body {
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    background-image: url('../img/mnt.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    margin: 0 auto;
+    width: 60%;
+    max-width: 650px;
+    height: 450px;
+    background: rgba(52, 152, 219, 0.7);;
+    border-radius: 5px;
+    margin-top: 160px;
+    text-align: center;
+
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #ecf0f1;
+    font-size: 40px;
+    font-weight: 100;
+}
+span {
+    font-weight: 400;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="date-time"] {
+   width: 250px;
+   height: 46px;
+   padding-left: 25px;
+   font-size: 25px;
+   color: #7f8c8d;
+   font-weight: 100;
+}
+
+input[type="submit"] {
+    margin-top: 30px;
+    border: none;
+    background: #2ecc71;
+    border-radius: 2px;
+    padding: 26px;
+    font-size: 18px;
+    color: #ecf0f1;
+}
+
+input:focus,
+input:hover {
+    border: 1px solid #3498db;
+    background: #2ecc71;
+    color: white;
+}
+input#sub {
+    padding: 20px;
+}

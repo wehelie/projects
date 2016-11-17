@@ -1,0 +1,821 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"getElement",
+				"getElementById〔function〕"
+			],
+			[
+				"IDE",
+				"IDEs"
+			],
+			[
+				"book",
+				"bookString〔variable〕"
+			],
+			[
+				"bo",
+				"bookString"
+			],
+			[
+				"ge",
+				"getItem"
+			],
+			[
+				"loc",
+				"localStorage"
+			],
+			[
+				"boo",
+				"bookString〔variable〕"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"new",
+				"newName"
+			],
+			[
+				"re",
+				"remaining"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"quo",
+				"quoteData〔variable〕"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"doc",
+				"docFrag"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"app",
+				"appendChild"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"shape",
+				"shapeName"
+			],
+			[
+				"shap",
+				"shapeHeader"
+			],
+			[
+				"sha",
+				"shapeName"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ot",
+				"otherFn"
+			],
+			[
+				"fi",
+				"fileUrl"
+			],
+			[
+				"hide",
+				"hideFinished"
+			],
+			[
+				"le",
+				"leythHero"
+			],
+			[
+				"drive",
+				"driveMsg"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"ra",
+				"radius"
+			],
+			[
+				"set",
+				"setAddress"
+			],
+			[
+				"the",
+				"theAddress"
+			],
+			[
+				"sec",
+				"secret"
+			],
+			[
+				"Se",
+				"SecretCode"
+			],
+			[
+				"secret",
+				"secretNum"
+			],
+			[
+				"prop",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"M",
+				"Mammal"
+			],
+			[
+				"person",
+				"person1"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"st",
+				"street"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"cus",
+				"currentMessageRef"
+			],
+			[
+				"curren",
+				"currentMessage"
+			],
+			[
+				"txt",
+				"textNewMessage"
+			],
+			[
+				"current",
+				"currentMessageRef"
+			],
+			[
+				"btn",
+				"btnUpdateMessage"
+			],
+			[
+				"ar",
+				"Argsv"
+			],
+			[
+				"us",
+				"userName"
+			],
+			[
+				"de",
+				"delimiter"
+			],
+			[
+				"con",
+				"console.log('$0');"
+			],
+			[
+				"m",
+				"MongoClient"
+			],
+			[
+				"on",
+				"onkeypress	Attr"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"req",
+				"requestListener"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"lg",
+				"lng"
+			],
+			[
+				"v",
+				"venue"
+			],
+			[
+				"map",
+				"mapbox"
+			],
+			[
+				"num",
+				"numArray"
+			],
+			[
+				"nu",
+				"numArray"
+			],
+			[
+				"ins",
+				"insertDash"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n}\n",
+			"file": "newProjects.sublime-project",
+			"file_size": 41,
+			"file_write_time": 131072547740000000,
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 384.0,
+		"last_filter": "prev",
+		"selected_items":
+		[
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"brow",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"them",
+				"QuickThemes: next"
+			],
+			[
+				"th",
+				"Themr: Toggle Theme Settings"
+			],
+			[
+				"previ",
+				"Themr: Previous theme"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Channel"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"in",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"REMO",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: function"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 601.0
+	},
+	"console":
+	{
+		"height": 138.0,
+		"history":
+		[
+			"view.settings().get('font_face')",
+			"clear",
+			"view.settings().get('font_face')",
+			"view.settings().get('font_face);",
+			"s"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-04-Mastering-the-programming-editor-sublime-text/chapter6Questions.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-04-Mastering-the-programming-editor-sublime-text/chapter4Questions.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-04-Mastering-the-programming-editor-sublime-text/chapter5Questions.md",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/leyth/Desktop/saphora/site/blog.md",
+		"/Users/leyth/Desktop/saphora/site/blog.html",
+		"/Users/leyth/Desktop/site/Kiko/index.html",
+		"/Users/leyth/Desktop/site/Kiko/about.md",
+		"/Users/leyth/Desktop/site/Kiko/_config.yml",
+		"/Users/leyth/Desktop/blg/_layouts/page.html",
+		"/Users/leyth/Desktop/blg/CNAME",
+		"/Users/leyth/Desktop/blg/index.html",
+		"/Users/leyth/Desktop/blg/blog.md",
+		"/Users/leyth/Desktop/blg/projects.md",
+		"/Users/leyth/Desktop/blg/style.scss",
+		"/Users/leyth/Desktop/demo/clock/style.css",
+		"/Users/leyth/Desktop/demo/clock/app.js",
+		"/Users/leyth/Desktop/demo/clock/index.html",
+		"/Users/leyth/Desktop/example/index.html",
+		"/Users/leyth/Desktop/example/style.css",
+		"/Users/leyth/Desktop/example/app.js",
+		"/Users/leyth/Desktop/todo/script.js",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Command-Line-for-Developers/project-2.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/example.sh",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/layth/README.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/son/README.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/hime/README.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Command-Line-for-Developers/project-1.md",
+		"/Users/leyth/Desktop/LMD/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Command-Line-for-Developers/rename.sh",
+		"/Users/leyth/Desktop/demo/js/demo.js",
+		"/Users/leyth/Downloads/stage0.html",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Command-Line-for-Developers/exercises.md",
+		"/Users/leyth/Desktop/index.html",
+		"/Users/leyth/Downloads/MinimalApp/src/view/updateBook.js",
+		"/Users/leyth/Downloads/MinimalApp/src/view/createBook.js",
+		"/Users/leyth/Desktop/app.js",
+		"/Users/leyth/Downloads/128858_owebs/index.html",
+		"/Users/leyth/Downloads/P 4/index.html",
+		"/Users/leyth/Downloads/Letter.html",
+		"/Users/leyth/Downloads/Dear_Future_Self 2.md",
+		"/Users/leyth/Downloads/Summary_P0.html",
+		"/Users/leyth/Downloads/index.html",
+		"/Users/leyth/Desktop/todomvc-gh-pages/vanillajs/js/app.js",
+		"/Users/leyth/Desktop/todomvc-gh-pages/vanillajs/js/controller.js",
+		"/Users/leyth/Desktop/todomvc-gh-pages/examples/vanilla-es6/src/app.js",
+		"/Users/leyth/Downloads/Project04 2/js/app.js",
+		"/Users/leyth/Downloads/Project04 2/README.md",
+		"/Users/leyth/Downloads/FEND_dry_run_interview/Cow Clicker/Answers for 1-4,6",
+		"/Users/leyth/Downloads/FEND_dry_run_interview/Cow Clicker/memoized.js",
+		"/Users/leyth/Desktop/angcourse/src/content/css/app.css",
+		"/Users/leyth/Downloads/interview.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-03-Mastering-Git/Questions.md",
+		"/Users/leyth/Desktop/bookingapp/css/style.css",
+		"/Users/leyth/Desktop/bookingapp/js/app.js",
+		"/Users/leyth/Desktop/bookingapp/index.html",
+		"/Users/leyth/Desktop/demo/index.html",
+		"/Users/leyth/Downloads/117999_1hsno/P6-answers.md",
+		"/Users/leyth/Downloads/Letter_to_Self 2.html",
+		"/Users/leyth/Downloads/Interview/Q5/cowclicker.html",
+		"/Users/leyth/Desktop/mahmudstreet/js/webAudioApiForDesigners.js",
+		"/Users/leyth/Downloads/interview-dry-run.md",
+		"/Users/leyth/Downloads/111411_hy9x3/goals.txt",
+		"/Users/leyth/Downloads/111411_hy9x3/lettertoself.txt",
+		"/Users/leyth/Downloads/dryruninterview.html",
+		"/Users/leyth/Downloads/RyanCCollins-Frontend-Grit-8330cab/lettertoself.txt",
+		"/Users/leyth/Downloads/RyanCCollins-Frontend-Grit-8330cab/goals.txt",
+		"/Users/leyth/Downloads/fendinterview.md",
+		"/Users/leyth/Desktop/repo/actjs/js/jsx.js",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Facebook.tmTheme",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/User/Colorsublime.sublime-settings",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Facebook.tmTheme",
+		"/Users/leyth/Desktop/Facebook.tmTheme",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/README.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Mastering-Git-Part-1/answers-2.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Mastering-Git-Part-1/answers-3 .md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-02-Mastering-Git-Part-1/answers-1.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-01-Command-Line-for-Developers/exercise-answers.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-01-Command-Line-for-Developers/commandline-practice/study.html",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-02-Command-Line-for-Web-Developers-and-Mastering-Git-and-GitHub/Section-01-Command-Line-for-Developers/commandline-practice/filesizes.txt",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/README.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/README.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/General-Communication-Skills-Assessment/email.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/Technical-Communication-Skills-Assessment/README.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/About-Me/about-me.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/Resume/resume.md",
+		"/Users/leyth/Desktop/modern/coursework/coursework-wehelie/Course-01-Communicating-Effectively-For-Success/Section-01-Getting-Started-And-Assessment/Technical-Communication-Skills-Assessment/reactive-programming-tutorial.md",
+		"/Users/leyth/Desktop/modern/communication/assessment/project-technical-communication-assessment/REACTIVEPROGRAMMING.md",
+		"/Users/leyth/Desktop/modern/communication/assessment/project-technical-communication-assessment/README.md",
+		"/Users/leyth/Desktop/modern/communication/resume/README.md",
+		"/Users/leyth/Desktop/modern/communication/resume/RESUME.md",
+		"/Users/leyth/Desktop/modern/communication/assessment/project-general-communication-skills-assessment/README.md",
+		"/Users/leyth/Desktop/modern/communication/assessment/project-general-communication-skills-assessment/Email.md",
+		"/Users/leyth/Desktop/modern/communication/resume/img/twitter.svg",
+		"/Users/leyth/Desktop/wehelie.github.io-master/_config.yml",
+		"/Users/leyth/Desktop/wehelie.github.io-master/_posts/2015-12-24-hello.md",
+		"/Users/leyth/Desktop/wehelie.github.io-master/CNAME",
+		"/Users/leyth/Desktop/wehelie.github.io-master/about/index.md",
+		"/Users/leyth/Desktop/css30/index.html",
+		"/Users/leyth/Desktop/css30/css/style.css",
+		"/Users/leyth/Desktop/repo/countdown/ctdown.js",
+		"/Users/leyth/Desktop/repo/jQuery/js/app.js",
+		"/Users/leyth/Desktop/repo/jQuery/js/jquery/test/data/jquery-1.9.1.js",
+		"/Users/leyth/Desktop/repo/jQuery/js/jquery/src/jquery.js",
+		"/Users/leyth/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/leyth/Desktop/first/blog/routes/index.js",
+		"/Users/leyth/Desktop/first/blog/app.js",
+		"/Users/leyth/Desktop/first/blog/views/newuser.jade",
+		"/Users/leyth/Desktop/first/blog/views/index.jade",
+		"/Users/leyth/Desktop/first/blog/views/userinfos.jade",
+		"/Users/leyth/Desktop/first/blog/views/userinfo.jade",
+		"/Users/leyth/Desktop/first/blog/views/leyth.jade",
+		"/Users/leyth/Desktop/first/blog/package.json",
+		"/Users/leyth/Desktop/noexpress/app.js",
+		"/Users/leyth/Desktop/noexpress/routes/index.js",
+		"/Users/leyth/Desktop/noexpress/views/default.ejs",
+		"/Users/leyth/Desktop/noexpress/views/partials/page/head.ejs",
+		"/Users/leyth/Desktop/noexpress/package.json",
+		"/Users/leyth/Desktop/noexpress/views/partials/page/jsdefaults.ejs",
+		"/Users/leyth/Desktop/noexpress/views/partials/page/footer.ejs",
+		"/Users/leyth/Desktop/noexpress/views/partials/page/header.ejs",
+		"/Users/leyth/.zshrc",
+		"/Users/leyth/README.md",
+		"/Users/leyth/.bash_profile"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"blog",
+			"twitter",
+			"scoresArray",
+			"UDACITY_AUTH_TOKEN",
+			"udacity",
+			"create",
+			"blog",
+			"td",
+			"thead",
+			"ul",
+			"();\n",
+			"               ",
+			"check",
+			"toggle",
+			"jumbotron-bg",
+			"logo",
+			"my site",
+			"them",
+			"under",
+			"use",
+			"exress.Router",
+			"properties",
+			"title",
+			"four",
+			"getErrorMessage",
+			"save",
+			"db.colle"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "newProjects.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 112.0
+	},
+	"pinned_build_system": "Packages/Markdown Preview/Markdown.sublime-build",
+	"project": "newProjects.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 489.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 350.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

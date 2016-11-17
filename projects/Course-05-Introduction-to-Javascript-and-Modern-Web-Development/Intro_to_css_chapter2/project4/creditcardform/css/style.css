@@ -1,0 +1,76 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:100,400';
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+}
+
+body,
+input,
+textarea {
+    font: 1em Georgia;
+    font-size: 18px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: lightgray;
+    text-align: center;
+    color: rgba(255, 0, 78, 0.52);
+}
+
+.container {
+    width: 600px;
+    -moz-box-shadow: 0 0 5px 5px #888;
+    -webkit-box-shadow: 0 0 5px 5px#888;
+    box-shadow: 0 0 5px 5px #888;
+}
+
+input,
+textarea {
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+label {
+    margin-bottom: 20px;
+    font-size: 28px;
+}
+
+button {
+    width: auto;
+    display: inline;
+    border: none;
+    padding: 20px;
+}
+
+label input,
+label textarea {
+    margin-top: 20px;
+    background: rgba(233, 30, 99, 0.22);
+}
+
+span {
+    color: royalblue;
+}
+
+label,
+input,
+textarea {
+    display: block;
+}
+
+input[type=submit] {
+    background: #f1d4d8;
+}

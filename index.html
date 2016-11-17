@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Portfolio</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://unpkg.com/flickity@2.0/dist/flickity.min.css">
+	<script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
+</head>
+<body>
+	<div class="gallery js-flickity" data-flickity='{"autoPlay": 3000, "pauseAutoPlayOnHover": false}'>
+  		<div class="gallery-cell hero">
+  			<h1>Leyth Adan</h1>
+  			<h2>JavaScript Developer</h2>
+  		</div>
+  		<div class="gallery-cell">
+  			<h1> "Ignorance leads to fear"</h1>
+  		</div>
+  		<div class="gallery-cell">
+  			<h1>"Fear leads to hate"</h1>
+  		</div>
+	</div>
+	</div>
+	<div class="main">
+		<input type="radio" checked name="tab" id="tab1">
+  		<label for="tab1">Project 1</label>
+	  	<input type="radio" name="tab" id="tab2">
+	  	<label for="tab2">Project 2</label>
+	  	<input type="radio" name="tab" id="tab3">
+	  	<label for="tab3">Proeject 3</label>
+	  	<input type="radio" name="tab" id="tab4">
+	  	<label for="tab4">Proeject 4</label>
+	  	<input type="radio" name="tab" id="tab5">
+	  	<label for="tab5">Proeject 5</label>
+	 	<!-- Model -->
+	  	<div class="mod">sample content 1</div>
+	  	<div class="mod">sample content 2</div>
+	  <div class="mod">sample content 3</div>
+	  <div class="mod">sample content 4</div>
+	   <div class="mod">sample content 5</div>
+	</div>
+	<script>
+		var flickity = Flickity('.main-gallery',{ cellAlign: 'left', contain: true});
+	</script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+* {
+/* With these codes padding and border does not increase it's width and gives intuitive style.*/
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+@import 'https://fonts.googleapis.com/css?family=Lato:100,400';
+
+html,
+body {
+    min-height: 100%;
+}
+
+body {
+    argin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    background-image: url('../img/wheel.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.main {
+    margin: 0 auto;
+    width: 60%;
+    max-width: 650px;
+    height: 450px;
+    background: rgb(255, 235, 59);
+    border-radius: 5px;
+    margin-top: 160px;
+    text-align: center;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    text-transform: uppercase;
+    color: black;
+    font-size: 40px;
+    font-weight: 100;
+    padding-top: 17px;
+}
+
+span {
+    font-weight: 400;
+}
+
+input[type="search"] {
+    width: 300px;
+    height: 50px;
+    background: whitesmoke;
+    border-radius: 4px;
+    border: none;
+    font-size: 10pt;
+    color: #63717f;
+    padding-left: 45px;
+}
+
+input[type="submit"] {
+    margin-top: 30px;
+    border: none;
+    background: #63717f;
+    border-radius: 2px;
+    padding: 17px;
+    font-size: 18px;
+    color: #ecf0f1;
+}
+
+select.select {
+    width: 122px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 24px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: black;
+}

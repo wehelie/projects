@@ -1,0 +1,87 @@
+/* apply a natural box layout model to all elements, but allowing components to change */
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	width: 89%;
+	margin: 0 auto;
+}
+
+.container {
+	background: hsla(0, 0%, 68%, 0.23);
+}
+
+h3 {
+	font-size: 30px;
+	font-weight: 100;
+	text-shadow: 2px;
+	text-transform: uppercase;
+}
+
+mark {
+	background: rgb(233, 30, 114);
+	color: white;
+}
+
+.button {
+	display: inline-block;
+}
+
+div.button {
+	background: hsla(0, 0%, 68%, 0.45);
+}
+
+/* send email button */
+button.button,
+a.button, 
+div.button {
+	font-family: 'Lato', sans-serif;
+	width: 20%;
+	border-radius: 2px;
+	line-height: 12px;
+	letter-spacing: 6px;
+	cursor: pointer;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	background: #00BCD4;
+	border-radius: 5px;
+	font-size: 30px;
+	font-weight: 100;
+	color: #FFFFFF;
+	margin-left: 30px;
+	padding: 30px 15px;
+	box-shadow: 10px;
+	border: none;
+}
+
+button.button:hover,
+a.button:hover,
+div.button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+button.button:active,
+a.button:active,
+div.button:active {
+	color: lime;
+}
+
+div.button-sm {
+	width: 204px;
+	font-size: 10px;
+}
+
+div.button-md {
+	width: 400px;
+}
+
+div.button-lg {
+	width:500px;
+}

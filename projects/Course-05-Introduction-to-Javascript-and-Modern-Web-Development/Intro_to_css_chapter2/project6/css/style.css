@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/* main content container */
+
+.main {
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid black;
+    /*    add some padding here */
+}
+
+
+/* Page Header */
+
+header {
+    padding: 10px;
+}
+
+header h1 {
+    background: rgba(149, 117, 205, 0.61);
+    font-weight: 300;
+    font-size: 55px;
+    margin-left: 60px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul li {
+    width: 30%;
+    display: inline-block;
+    padding: 20px;
+    margin: 5px;
+}
+
+.main,
+header {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+ul li img {
+    padding: 3px;
+}
+
+
+/* price */
+
+.price {
+    width: 90%;
+    background: #9575cd;
+    height: 50px;
+    padding: 13px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 100;
+    color: white;
+}
+
+
+/* button */
+
+button {
+    padding: 11px;
+    margin-top: 30px;
+    background: #673ab7;
+    color: whitesmoke;
+    font-size: 15px;
+    border-radius: 4px;
+}
+
+
+/* cart */
+
+.cart li {
+    width: 90%;
+    display: block;
+}
+
+.cart img {
+    max-width: 100%;
+}
+
+.cart-price {
+    width: 400px;
+    position: relative;
+    left: 156px;
+    bottom: 125px;
+}
+
+h2 {
+    position: relative;
+    left: 156px;
+    bottom: 140px;
+}
+
+a#bottom,
+a#top {
+    text-align: right;
+    display: block;
+    font-size: 108px;
+}
+
+#bottom {
+    margin-bottom: 30px;
+}
