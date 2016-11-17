@@ -8,7 +8,7 @@
 	<script src="https://unpkg.com/flickity@2.0/dist/flickity.pkgd.min.js"></script>
 </head>
 <body>
-	<div class="gallery js-flickity" data-flickity='{"autoPlay": 3000, "pauseAutoPlayOnHover": false}'>
+	<div class="gallery js-flickity"  data-flickity='{ "freeScroll": true, "contain": true, "prevNextButtons": false, "pageDots": false }'>
   		<div class="gallery-cell hero">
   			<h1>Leyth Adan</h1>
   			<h2>JavaScript Developer</h2>
@@ -22,26 +22,32 @@
 	</div>
 	</div>
 	<div class="main">
-		<input type="radio" checked name="tab" id="tab1">
-  		<label for="tab1">Project 1</label>
-	  	<input type="radio" name="tab" id="tab2">
-	  	<label for="tab2">Project 2</label>
-	  	<input type="radio" name="tab" id="tab3">
-	  	<label for="tab3">Proeject 3</label>
-	  	<input type="radio" name="tab" id="tab4">
-	  	<label for="tab4">Proeject 4</label>
-	  	<input type="radio" name="tab" id="tab5">
-	  	<label for="tab5">Proeject 5</label>
+		<input type="radio" checked name="tab" id="one">
+  		<label for="one">Buttons</label>
+	  	<input type="radio" name="tab" id="two">
+	  	<label for="two">Profile Card</label>
+	  	<input type="radio" name="tab" id="three">
+	  	<label for="three">Forms</label>
+	  	<input type="radio" name="tab" id="four">
+	  	<label for="four">Calculator</label>
+	  	<input type="radio" name="tab" id="five">
+	  	<label for="five">Cart</label>
 	 	<!-- Model -->
 	  	<div class="mod">
 	  		<a href="projects/web-components/components/buttons/index.html"><img src="img/components.png" alt="buttons" width="800"></a>
 	  	</div>
 	  	<div class="mod">
-	  		<a href="projects/Course-05-Introduction-to-Javascript-and-Modern-Web-Development/Intro_to_css_chapter2/project3/index.html"><img src="img/card.png" alt="buttons" width="800"></a>
+	  		<a href="projects/Course-05-Introduction-to-Javascript-and-Modern-Web-Development/Intro_to_css_chapter2/project3/index.html"><img src="img/card.png" alt="card" width="800"></a>
 	  	</div>
-	  <div class="mod">sample content 3</div>
-	  <div class="mod">sample content 4</div>
-	   <div class="mod">sample content 5</div>
+	  <div class="mod">
+	  		<a href="projects/Course-05-Introduction-to-Javascript-and-Modern-Web-Development/Intro_to_css_chapter2/project4/signupform/index.html"><img src="img/form.png" alt="forms" width="800"></a>
+	  </div>
+	  <div class="mod">
+	  		<a href="projects/Course-05-Introduction-to-Javascript-and-Modern-Web-Development/Intro_to_css_chapter2/project5/calculator/index.html"><img src="img/calc.png" alt="calculator" width="800"></a>
+	  </div>
+	   <div class="mod">
+	   		<a href="projects/Course-05-Introduction-to-Javascript-and-Modern-Web-Development/Intro_to_css_chapter2/project6/index.html"><img src="img/cart.png" alt="cart" width="800"></a>
+	   </div>
 	</div>
 	<script>
 		var flickity = Flickity('.main-gallery',{ cellAlign: 'left', contain: true});
